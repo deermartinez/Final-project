@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Ranchers&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="project.css">
+    <title>Document</title>
+
+
+</head>
+
+<body>
+    
+    <!--
+    images and links, and that uses some form of organized CSS layout. Must have basic aesthetic appeal through the use
+    of CSS styling. 2. Submit your deployed link of your website as evidence. 3. Submit a link to your GitHub PUBLIC
+    repo ( make sure it's public ! ) change name in custom domain under github pages in settings to create your own name-->
+    <header>
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-4">A brief runthrough of my time</h1>
+                <p class="lead">Here and now I get a chance to go through and answer all the questions literally noone has asked me</p>
+            </div>
+        </div>
+        <nav>
+            <a class="" href=""></a>
+            <a class="" href=""></a>
+            <a class="" href=""></a>
+        </nav>
+
+    </header>
+    <!-- Going to make it kind of as a journal entry where I just ramble about some of the things I have done before-so I
+    have the chance to link it to different places and pictures -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="">
+                </div>
+                /* Need to have three going across on each page */
+
+            </div>
+
+
+        </div>
+
+
+    <p>I never thought I would see myself involved in the law or legislative process(other than voting) but that is
+        exactly wheere I ended up the summer of 2019. I was actually a state lobbyist with a non profit called <a
+            href="https://younginvincibles.org/">Young Invincibles!</a></p>
+
+
+    My fast food experience is limited to Chipotle and Chick-fil-A. Both were average but I am convinced Chick-fil-a
+    puts something in those sandwiches because edspite eating one almost everyday for a few months I never actually got
+    sicl of them. Chitople on the other hand took me almost 3 years to recover from .
+
+    My first "exrta-curricular" experience included this small internship with MCA-<a href="">Musuem of Contemporary
+        Art.</a> I was but a small bean but it was a great introduction into both a creative and leadership role that I
+    could carry with me for the rest of my experiences.
+
+    Something that I've also <i>technically</i> been doing for a while is volunteering/interning with <a href="">Denver
+        Pop Culture Con</a>(Formerly Denver Comic Con.) During the year outside of the con I help with a
+    lot of random or organizational things ie. filign last years comments on a panel to see if we'll bring them back,
+    handling social media tage when announcing, sorting pictures so we can use them for next year. Whatever we could
+    help with to make next year go smoother is what I would do that week. It was a tiring weekend but I also had a good
+    amount of fun. Plus I would get to work with a really great teacher I had while I was in high school. The con didn't
+    happen this year for obvious reasons but I hope to still continue it in the future.
+
+    Oneof my most recent endeavors was becoming a cna-Certified Nursing Assistant. I took my classes through <a
+        href="">Nightingale School of Nursing</a> where I just had a delightfully cute teacher. She was very very detail
+    oriented and a little strict sometimes but it just goes to show how high her standards are for those entering the
+    medical field. After that I started working at POwerback Rehab where I've gotten a chance to be thrown right into
+    everything. I'm overall okay witgh it do far.
+
+
+    Another current thing I'm involved in is an apprenticeship with <a href="">Home Advisor</a> that I was able to find
+    through <a href="">CareerWise</a>. I will never get over saying howgrateful and privilaged I feel to be with them
+    and hope I can stay with them a long time. I feel incredibly lucky to have found them and I'm excited to see where
+    it can further bring me.
+
+
+    I've also held two smaller positions that we used an Emily griffiths building for-an internship for a DPStv and an
+    editor for Mile High Discussion. They were years apart but overall held the same ideas-a television show made for
+    and by students for other students.
+
+
+
+
+
+
+    <footer>
+
+
+
+    </footer>
+
+</body>
